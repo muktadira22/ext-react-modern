@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1"
+    "@sencha/ext": "^7.8.0",
+    "@sencha/ext-modern-runtime": "^7.5.0",
+    "@sencha/ext-react-modern": "^7.5.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
