@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ext-react-modern/static/css/main.a3353f2a.chunk.css",
+    "main.js": "/ext-react-modern/static/js/main.fcca99e3.chunk.js",
+    "main.js.map": "/ext-react-modern/static/js/main.fcca99e3.chunk.js.map",
+    "runtime~main.js": "/ext-react-modern/static/js/runtime~main.992265fd.js",
+    "runtime~main.js.map": "/ext-react-modern/static/js/runtime~main.992265fd.js.map",
+    "static/js/2.b6ba7eb7.chunk.js": "/ext-react-modern/static/js/2.b6ba7eb7.chunk.js",
+    "static/js/2.b6ba7eb7.chunk.js.map": "/ext-react-modern/static/js/2.b6ba7eb7.chunk.js.map",
+    "index.html": "/ext-react-modern/index.html",
+    "precache-manifest.e422d327355194bd1b9e0e6ac475a60f.js": "/ext-react-modern/precache-manifest.e422d327355194bd1b9e0e6ac475a60f.js",
+    "service-worker.js": "/ext-react-modern/service-worker.js",
+    "static/css/main.a3353f2a.chunk.css.map": "/ext-react-modern/static/css/main.a3353f2a.chunk.css.map",
+    "static/media/SenchaLogoLg.svg": "/ext-react-modern/static/media/SenchaLogoLg.3d673382.svg"
+  }
+}
